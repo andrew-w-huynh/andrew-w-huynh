@@ -16,20 +16,19 @@
 
 ## 💼 Experience
 
-### 🧑‍💻 Software Engineer Intern — USG  
-**May 2024 – Aug 2024**  <br>
-Contributed to internal tools and systems using Python to support data-driven workflows.<br><br>
-
 ### 🧪 Research — Virginia Tech  
 **Jan 2025 – May 2025**  <br>
 Built a machine learning pipeline to predict competitive game outcomes with 98% accuracy using Python and scikit-learn.<br><br>
+
+### 🧑‍💻 Software Engineer Intern — USG  
+**May 2024 – Aug 2024**  <br>
+Contributed to internal tools and systems using Python to support data-driven workflows.<br><br>
 
 ### 🌐 Front End Web Developer Intern — BKWeb Media  
 **Jun 2022 – Aug 2022**  <br>
 Developed responsive websites and landing pages using HTML, CSS, and WordPress in an Agile environment.<br><br>
 
 ---
-
 
 ## 🧑‍🤝‍🧑 Leadership
 
