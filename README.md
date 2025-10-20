@@ -37,7 +37,7 @@ A capstone project focused on building an end-to-end ML pipeline to forecast gam
 - Web scraped and preprocessed thousands of rows of data using `pandas`, `NumPy`, and Python  
 - Trained models using `scikit-learn` (logistic regression, random forest)  
 - Achieved 98% test accuracy through careful feature engineering and cross-validation  
-[🔗 Project Link](https://git.cs.vt.edu/andrewhuynh/cs-4664-nba-predictions) 
+[🔗 Project Link](https://github.com/andrew-w-huynh/ml-competitive-game-predictor) 
 
 ## 🧑‍🤝‍🧑 Leadership
 
