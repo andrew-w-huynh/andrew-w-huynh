@@ -9,7 +9,7 @@
 **Languages:** Python, Java, JavaScript, C#  <br>
 **Web:** HTML, CSS, WordPress  <br>
 **Databases:** SQL, MySQL, MongoDB  <br>
-**Tools:** Git, GitHub, VS Code
+**Tools:** Git, GitHub, VS Code <br>
 **Frameworks:** Matplotlib, scikit-learn, pandas, NumPy, TensorFlow <br><br>
 
 ---
