@@ -16,7 +16,11 @@
 
 ## 💼 Experience
 
-### 🧪 Research Assistant — Virginia Tech  
+### 🧑‍💻 Software Engineer Intern — USG  
+**May 2024 – Aug 2024**  <br>
+Contributed to internal tools and systems using Python to support data-driven workflows.<br><br>
+
+### 🧪 Research — Virginia Tech  
 **Jan 2025 – May 2025**  <br>
 Built a machine learning pipeline to predict competitive game outcomes with 98% accuracy using Python and scikit-learn.<br><br>
 
@@ -24,9 +28,14 @@ Built a machine learning pipeline to predict competitive game outcomes with 98% 
 **Jun 2022 – Aug 2022**  <br>
 Developed responsive websites and landing pages using HTML, CSS, and WordPress in an Agile environment.<br><br>
 
-### 🧑‍💻 Software Engineer Intern — USG  
-**May 2024 – Aug 2024**  <br>
-Contributed to internal tools and systems using Python to support data-driven workflows.<br><br>
+---
+
+
+## 🧑‍🤝‍🧑 Leadership
+
+### 🎓 Committee Lead — VT Student Engineering Council  
+**Oct 2023 – May 2024**  <br>
+Led events and networking initiatives for 1,500+ engineering students to foster community and industry connections.<br><br>
 
 ---
 
@@ -38,12 +47,6 @@ A capstone project focused on building an end-to-end ML pipeline to forecast gam
 - Trained models using `scikit-learn` (logistic regression, random forest)  
 - Achieved 98% test accuracy through careful feature engineering and cross-validation  
 [🔗 Project Link](https://github.com/andrew-w-huynh/ml-competitive-game-predictor) 
-
-## 🧑‍🤝‍🧑 Leadership
-
-### 🎓 Committee Lead — VT Student Engineering Council  
-**Oct 2023 – May 2024**  <br>
-Led events and networking initiatives for 1,500+ engineering students to foster community and industry connections.<br><br>
 
 ---
 
