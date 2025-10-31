@@ -7,7 +7,7 @@
 ## 🧠 Primary Technical Skills
 
 **Languages:** Python, Java, JavaScript, C#  <br>
-**Web:** HTML, CSS, WordPress  <br>
+**Web:** HTML, CSS <br>
 **Databases:** SQL, MySQL, MongoDB  <br>
 **Tools:** Git, GitHub, VS Code <br>
 **Frameworks:** Matplotlib, scikit-learn, pandas, NumPy <br><br>
