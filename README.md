@@ -53,7 +53,7 @@ A capstone project focused on building an end-to-end ML pipeline to forecast gam
 
 - 🔗 [LinkedIn](https://linkedin.com/in/andrew-wil-huynh)  
 - 📄 [Resume Also On My LinkedIn (PDF)](https://linkedin.com/in/andrew-wil-huynh) <br>
-- 📬 Email: [andrewhuynh@vt.edu](mailto:andrewhuynh@vt.edu)<br><br>
+- 📬 Email: [andrew.w.huynh1@gmail.com](andrew.w.huynh1@gmail.com)<br><br>
 Thanks for visiting!<br>
 
 ## 🌐 Socials:
