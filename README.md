@@ -16,17 +16,21 @@
 
 ## 💼 Experience
 
-### 🧪 Research — Virginia Tech  
-**Jan 2025 – May 2025**  <br>
-Built a machine learning pipeline to predict competitive game outcomes with 98% accuracy using Python and scikit-learn.<br><br>
+### 🚀 Software Engineering Intern — Tria Federal  
+**Dec 2025 – Present** <br>
+Automating financial workflows by developing backend applications with **Apex** and integrating REST APIs. Building responsive user interfaces using **JavaScript, HTML, and CSS** to ensure high-quality delivery of customer-facing solutions.<br><br>
 
-### 🧑‍💻 Software Engineer Intern — USG  
-**May 2024 – Aug 2024**  <br>
-Contributed to internal tools and systems using Python to support data-driven workflows.<br><br>
+### 🧪 Research — Virginia Tech  
+**Jan 2025 – May 2025** <br>
+Directed a machine learning pipeline to predict competitive game outcomes with 98% accuracy. Performed market analysis and data feature prioritization using Python and Pandas.<br><br>
 
-### 🌐 Front End Web Developer Intern — BKWeb Media  
-**Jun 2022 – Aug 2022**  <br>
-Developed responsive websites and landing pages using HTML, CSS, and WordPress in an Agile environment.<br><br>
+### 🧑‍💻 Software Engineer Intern — USG  
+**May 2024 – Aug 2024** <br>
+Developed Python-based methodologies for AI inferencing and produced quality metrics to validate the reliability of secure data applications.<br><br>
+
+### 🌐 Front End Web Developer Intern — BKWeb Media  
+**Jun 2022 – Aug 2022** <br>
+Developed responsive websites and landing pages using **HTML and CSS**. Worked within an Agile team to prioritize feature implementation and ensure cross-browser compatibility.<br><br>
 
 ---
 
