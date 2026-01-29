@@ -2,7 +2,7 @@
 
 I am a **Software Engineering Intern at Tria Federal**, where I build backend solutions using **Apex** and develop data-driven workflows to automate financial systems. I am currently seeking full-time opportunities in **Product Management**, **Software Engineering**, or **Data Analytics** where I can bridge the gap between technical development and business strategy. 
 
-I graduated from **Virginia Tech** with a **Bachelor of Science in Computer Science** (Class of 2025), passionate about **software engineering** and collaborating in fast-moving, team-focused environments to solve real-world problems through clean, thoughtful code.<br><br>
+I obtained my **Bachelor of Science in Computer Science** from **Virginia Tech** and am passionate about **software engineering** and collaborating in fast-moving, team-focused environments to solve real-world problems through clean, thoughtful code.<br><br>
 
 ---
 
