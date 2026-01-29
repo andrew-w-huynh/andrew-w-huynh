@@ -1,16 +1,19 @@
 # 💫 About Me:
 
-👋 Hi, I'm Andrew Huynh<br><br>I'm a **Computer Science graduate** from **Virginia Tech**, passionate about **machine learning**, **software engineering**, and solving real-world problems through clean, thoughtful code. I enjoy building data-driven systems and collaborating in fast-moving, team-focused environments.<br><br>
+I am a **Software Engineering Intern at Tria Federal**, where I build backend solutions using **Apex** and develop data-driven workflows to automate financial systems. I am currently seeking full-time opportunities in **Product Management**, **Software Engineering**, or **Data Analytics** where I can bridge the gap between technical development and business strategy. 
+
+I graduated from **Virginia Tech** with a **Bachelor of Science in Computer Science** (Class of 2025), passionate about **software engineering** and collaborating in fast-moving, team-focused environments to solve real-world problems through clean, thoughtful code.<br><br>
 
 ---
 
-## 🧠 Primary Technical Skills
+## 🛠 Technical Skills
 
-**Languages:** Python, Java, JavaScript, C#  <br>
-**Web:** HTML, CSS <br>
-**Databases:** SQL, MySQL, MongoDB  <br>
-**Tools:** Git, GitHub, VS Code <br>
-**Frameworks:** Matplotlib, scikit-learn, pandas, NumPy <br><br>
+**Programming Languages:** Python, Java, JavaScript, C#, SQL, Apex  
+**Data Analysis:** R, NumPy, pandas, scikit-learn, Matplotlib  
+**Web Technologies:** HTML, CSS, React, RESTful APIs, WordPress  
+**Developer Tools:** Postman, Git, GitHub, Visual Studio Code  
+**Microsoft Office:** Excel, PowerPoint, Word  
+**Databases:** MySQL, MongoDB
 
 ---
 
