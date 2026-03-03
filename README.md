@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a **Software Engineering Intern at Tria Federal**, where I build backend solutions using **Apex** and develop data-driven workflows to automate financial systems. I am currently seeking full-time opportunities in **Product Management**, **Software Engineering**, or **Data Analytics** where I can bridge the gap between technical development and business strategy. 
+I am a former **Software Engineering Intern at Tria Federal**, where I built backend solutions using **Apex** and developed data-driven workflows to automate financial systems. I am currently seeking full-time opportunities in **Product Management**, **Software Engineering**, or **Data Analytics** where I can bridge the gap between technical development and business strategy. 
 
 I obtained my **Bachelor of Science in Computer Science** from **Virginia Tech** and am passionate about **software engineering** and collaborating in fast-moving, team-focused environments to solve real-world problems through clean, thoughtful code.<br><br>
 
