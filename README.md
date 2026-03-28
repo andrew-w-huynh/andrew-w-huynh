@@ -1,54 +1,62 @@
 # 💫 About Me:
 
-I am a former **Software Engineering Intern at Tria Federal**, where I built backend solutions using **Apex** and developed data-driven workflows to automate financial systems. I am currently seeking full-time opportunities in **Software Engineering**, **Data Analytics**, **Product Management**, **Machine Learning**, or related fields, where I can bridge the gap between technical development and business strategy. 
+I earned my **Bachelor of Science in Computer Science** from **Virginia Tech** and am a **Software Developer (Contract) at McGraw Hill**, contributing to educational platforms by building front-end features and maintaining scalable codebases using **JavaScript, HTML, and CSS**. I coordinate Agile sprints with **Jira and Confluence** to ensure smooth development and timely delivery.  
 
-I obtained my **Bachelor of Science in Computer Science** from **Virginia Tech** and am passionate about **software engineering** and collaborating in fast-moving, team-focused environments to solve real-world problems through clean, thoughtful code.<br><br>
+Previously, I was a Software Engineer Intern (Salesforce) at Tria Federal, where I developed backend solutions with Apex, integrated REST APIs and XML, and built internal tools using JavaScript, HTML, and CSS, collaborating in Agile sprints to deliver reliable Salesforce-based solutions.
+
+I also gained experience as a Software Engineer Intern at USG, applying Python for code review and analysis, evaluating machine learning pipelines, and leveraging artificial intelligence inferencing to inform research decisions and optimize workflows.
+
+Earlier, I was a Front-End Web Developer Intern at BKWeb Media, developing responsive websites with HTML, CSS, WordPress, and JavaScript, testing across browsers and devices, and implementing UI/UX improvements to enhance navigation and presentation.
+I am seeking full-time opportunities in **Software Engineering**, **Data Analytics**, **Machine Learning**, **Product Management**, or related fields where I can combine technical development with business impact.
 
 ---
 
 ## 🛠 Technical Skills
 
-**Programming Languages:** Python, Java, JavaScript, C#, SQL, Apex  
-**Data Analysis:** R, NumPy, pandas, scikit-learn, Matplotlib  
-**Web Technologies:** HTML, CSS, React, RESTful APIs, WordPress  
-**Developer Tools:** Postman, Git, GitHub, Visual Studio Code  
+**Programming Languages:** JavaScript, TypeScript, Python, Java, C#, Apex  
+**Data Analysis / ML Libraries:** R, NumPy, pandas, scikit-learn, Matplotlib  
+**Web Technologies:** HTML, CSS, React, REST APIs, WordPress  
+**Developer Tools:** Git, GitHub, GitLab, Jira, Confluence, Visual Studio Code, Postman  
 **Microsoft Office:** Excel, PowerPoint, Word  
-**Databases:** MySQL, MongoDB
+**Databases:** SQL, MySQL, MongoDB  
 
 ---
 
 ## 💼 Experience
 
-### 🚀 Software Engineering Intern — Tria Federal  
-**Dec 2025 – Present** <br>
-Automating financial workflows by developing backend applications with **Apex** and integrating REST APIs. Building responsive user interfaces using **JavaScript, HTML, and CSS** to ensure high-quality delivery of customer-facing solutions.<br><br>
+### 🚀 Software Developer (Contract) — McGraw Hill  
+**Mar 2026 – Present**  
+- Developed front-end features using **JavaScript, HTML, and CSS**, implementing interactive components for usability.  
+- Coordinated Agile sprints and documented tasks using **Jira and Confluence** to maintain team alignment and velocity.  
+- Reviewed and optimized existing code to improve platform performance and maintainability.  
+- Built reusable components and applied front-end improvements to enhance consistency across applications.  
 
-### 🧪 Research — Virginia Tech  
-**Jan 2025 – May 2025** <br>
-Directed a machine learning pipeline to predict competitive game outcomes with 98% accuracy. Performed market analysis and data feature prioritization using Python and Pandas.<br><br>
+### 🏢 Software Engineer Intern (Salesforce) — Tria Federal  
+**Dec 2025 – Feb 2026**  
+- Developed backend solutions with **Apex**, integrating **REST APIs and XML** to automate financial workflows.  
+- Built internal tools and UIs with **JavaScript, HTML, and CSS** to support testing, monitoring, and debugging.  
+- Collaborated in Agile sprints to deliver Salesforce-based solutions and track changes via **Git/GitHub**.  
+- Optimized backend logic for reliability, maintainability, and operational efficiency.  
 
 ### 🧑‍💻 Software Engineer Intern — USG  
-**May 2024 – Aug 2024** <br>
-Developed Python-based methodologies for AI inferencing and produced quality metrics to validate the reliability of secure data applications.<br><br>
+**May 2024 – Aug 2024**  
+- Applied **Python** to review and analyze code, ensuring correctness and consistent implementation.  
+- Assessed machine learning pipelines and applied **artificial intelligence inferencing** to produce actionable insights.  
+- Refined backend processes, tested system logic, and proposed modifications to improve efficiency.  
+- Evaluated algorithms and code performance to guide research decisions and enhance project quality.  
 
-### 🌐 Front End Web Developer Intern — BKWeb Media  
-**Jun 2022 – Aug 2022** <br>
-Developed responsive websites and landing pages using **HTML and CSS**. Worked within an Agile team to prioritize feature implementation and ensure cross-browser compatibility.<br><br>
-
----
-
-## 🧑‍🤝‍🧑 Leadership
-
-### 🎓 Committee Lead — VT Student Engineering Council  
-**Oct 2023 – May 2024**  <br>
-Led events and networking initiatives for 1,500+ engineering students to foster community and industry connections.<br><br>
+### 🌐 Front-End Web Developer Intern — BKWeb Media  
+**Jun 2022 – Aug 2022**  
+- Developed responsive websites and landing pages using **HTML, CSS, WordPress, and JavaScript**.  
+- Collaborated with designers and developers in Agile sprints to deliver iterative improvements and new features.  
+- Tested front-end functionality across browsers and devices, implementing UI/UX enhancements for clear navigation and polished presentation.  
 
 ---
 
 ## 🎯 Projects
 
 ### 🎮 Predictive Game Modeling  
-A capstone project focused on building an end-to-end ML pipeline to forecast game outcomes.  <br>
+A project focused on building an end-to-end ML pipeline to forecast game outcomes.  <br>
 - Web scraped and preprocessed thousands of rows of data using `pandas`, `NumPy`, and Python  
 - Trained models using `scikit-learn` (logistic regression, random forest)  
 - Achieved 98% test accuracy through careful feature engineering and cross-validation  
