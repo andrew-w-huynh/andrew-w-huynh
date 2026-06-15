@@ -57,7 +57,7 @@ I am seeking full-time opportunities in **Software Engineering**, **Data Analyti
 
 ### 🎮 Predictive Game Modeling  
 A project focused on building an end-to-end ML pipeline to forecast game outcomes.  <br>
-- Web scraped and preprocessed thousands of rows of data using `pandas`, `NumPy`, and Python  
+- Preprocessed and analyzed thousands of rows of data using `pandas`, `NumPy`, and Python  
 - Trained models using `scikit-learn` (logistic regression, random forest)  
 - Achieved 98% test accuracy through careful feature engineering and cross-validation  
 [🔗 Project Link](https://github.com/andrew-w-huynh/ml-competitive-game-predictor) 
