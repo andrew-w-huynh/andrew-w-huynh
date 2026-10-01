@@ -31,7 +31,7 @@ I am seeking full-time opportunities in **Software Engineering**, **Data Analyti
 - Reviewed and optimized existing code to improve platform performance and maintainability.  
 - Built reusable components and applied front-end improvements to enhance consistency across applications.  
 
-### 🏢 Software Engineer Intern (Salesforce) — Tria Federal  
+### 🏢 Software Data Analyst Intern — Tria Federal  
 **Dec 2025 – Feb 2026**  
 - Developed backend solutions with **Apex**, integrating **REST APIs and XML** to automate financial workflows.  
 - Built internal tools and UIs with **JavaScript, HTML, and CSS** to support testing, monitoring, and debugging.  
