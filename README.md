@@ -26,7 +26,7 @@ I am seeking full-time opportunities in **Software Engineering**, **Data Analyti
 
 ### 🚀 Software Developer (Contract) — McGraw Hill  
 **Mar 2026 – Present**  
-- Resolve 300+ technical defects and manage documentation via Jira and Confluence in Agile sprints to maintain project workflows and enterprise software reliability.
+- Resolved 300+ technical bug / issue tickets and manage documentation via Jira and Confluence in Agile sprints to maintain project workflows and enterprise software reliability.
 - Develop, build, and maintain cloud connected web application components and user interfaces using JavaScript, HTML, and CSS for scalable educational platforms.  
 - Configured and administered AWS EC2 cloud instances on Linux, utilizing Secure Shell protocol with key pair authentication to manage remote server infrastructure and secure deployment environments.  
 - Partner with Quality Control teams to debug front end applications, analyze system discrepancies, and execute regression testing across cloud environments.  
