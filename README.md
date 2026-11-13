@@ -26,10 +26,10 @@ I am seeking full-time opportunities in **Software Engineering**, **Data Analyti
 
 ### 🚀 Software Developer (Contract) — McGraw Hill  
 **Mar 2026 – Present**  
-- Developed front-end features using **JavaScript, HTML, and CSS**, implementing interactive components for usability.  
-- Coordinated Agile sprints and documented tasks using **Jira and Confluence** to maintain team alignment and velocity.  
-- Reviewed and optimized existing code to improve platform performance and maintainability.  
-- Built reusable components and applied front-end improvements to enhance consistency across applications.  
+- Resolve 300+ technical defects and manage documentation via Jira and Confluence in Agile sprints to maintain project workflows and enterprise software reliability.
+- Develop, build, and maintain cloud connected web application components and user interfaces using JavaScript, HTML, and CSS for scalable educational platforms.  
+- Configured and administered AWS EC2 cloud instances on Linux, utilizing Secure Shell protocol with key pair authentication to manage remote server infrastructure and secure deployment environments.  
+- Partner with Quality Control teams to debug front end applications, analyze system discrepancies, and execute regression testing across cloud environments.  
 
 ### 🏢 Data Analyst Intern — Tria Federal  
 **Dec 2025 – Feb 2026**  
