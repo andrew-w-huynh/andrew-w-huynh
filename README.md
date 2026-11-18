@@ -31,7 +31,7 @@ I am seeking full-time opportunities in **Software Engineering**, **Data Analyti
 - Configured and administered AWS EC2 cloud instances on Linux, utilizing Secure Shell protocol with key pair authentication to manage remote server infrastructure and secure deployment environments.  
 - Partner with Quality Control teams to debug front end applications, analyze system discrepancies, and execute regression testing across cloud environments.  
 
-### 🏢 Data Analyst Intern — Tria Federal  
+### 🏢 Software Engineer Intern — Tria Federal  
 **Dec 2025 – Feb 2026**  
 - Developed backend solutions with **Apex**, integrating **REST APIs and XML** to automate financial workflows.  
 - Built internal tools and UIs with **JavaScript, HTML, and CSS** to support testing, monitoring, and debugging.  
